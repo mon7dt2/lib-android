@@ -22,3 +22,29 @@ rcv animation: https://github.com/wasabeef/recyclerview-animators
 permission dispather: https://github.com/permissions-dispatcher/PermissionsDispatcher
 
 crop image: https://github.com/Yalantis/uCrop
+
+file downloader: https://github.com/lingochamp/FileDownloader
+
+observable Scrollview: https://github.com/ksoichiro/Android-ObservableScrollView
+
+loading Indicator view: https://github.com/HarlonWang/AVLoadingIndicatorView
+
+material design library: https://github.com/navasmdc/MaterialDesignLibrary
+
+statusbar util: https://github.com/laobie/StatusBarUtil
+
+bottom bar: https://github.com/roughike/BottomBar
+
+material viewPagger: https://github.com/florent37/MaterialViewPager
+
+q/a interview-1 : https://github.com/MindorksOpenSource/android-interview-questions
+
+graphql code generator: https://github.com/dotansimha/graphql-code-generator
+
+coil - image downloader: https://github.com/coil-kt/coil
+
+android bootstrap: https://github.com/Bearded-Hen/Android-Bootstrap
+
+ultimage rcv: https://github.com/cymcsg/UltimateRecyclerView
+
+smart Tablayout: https://github.com/ogaclejapan/SmartTabLayout
